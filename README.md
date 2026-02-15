@@ -37,7 +37,7 @@ Check version:
 python --version
 
 Step 2: Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/aswini/password-generator.git
 
 Step 3: Navigate to Project Folder
 cd your-repository-name
